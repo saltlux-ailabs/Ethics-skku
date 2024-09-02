@@ -1,1 +1,1 @@
-# saltlux-ailabs-Ethics-skku
+Ethics-skku
