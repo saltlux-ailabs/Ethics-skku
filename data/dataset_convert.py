@@ -16,9 +16,9 @@ def load_data(file_path):
     return df
 
 # Define the paths to your text files
-train_file_path = 'data_origin/train.txt'
-val_file_path = 'data_origin/test.txt'
-test_file_path = 'data_origin/val.txt'
+train_file_path = 'ai_hub_raw/train.txt'
+val_file_path = 'ai_hub_raw/test.txt'
+test_file_path = 'ai_hub_raw/val.txt'
 
 # Load the data from each file
 train_df = load_data(train_file_path)
