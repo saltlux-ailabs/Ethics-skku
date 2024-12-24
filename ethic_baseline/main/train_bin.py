@@ -6,7 +6,7 @@ import os
 import evaluate
 import random
 import numpy as np
-import pandas as pd
+# import pandas as pd
 import argparse
 from tqdm import tqdm
 from datasets import load_dataset
