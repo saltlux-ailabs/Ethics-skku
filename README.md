@@ -1,1 +1,1 @@
-Ethics-skku
+Ethics-skku.
